@@ -5,3 +5,6 @@ Ein Kampfpilot aus dem Film Top Gun
 * schlau
 * reaktionsschnell
 * kompromisslos
+
+> Maverick: 'Ich muss zugeben, ihre Einladung hat mich überrascht.'
+> 'Man nennt es 'Befehl', Maverick.'
